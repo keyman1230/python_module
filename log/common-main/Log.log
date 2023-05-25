@@ -1,0 +1,8 @@
+2023-05-13 01:23:11,048 - __main__ - INFO - Log Started
+2023-05-13 01:23:11,048 - __main__ - INFO - Path >> Log.log
+2023-05-13 01:23:11,048 - __main__ - INFO - Setting Log Level >> INFO
+2023-05-13 01:23:11,049 - function - INFO - Log Started
+2023-05-13 01:23:11,049 - function - INFO - Path >> Log.log
+2023-05-13 01:23:11,049 - function - INFO - Setting Log Level >> INFO
+2023-05-13 01:23:11,049 - function - INFO - I'm in function
+2023-05-13 01:23:11,049 - __main__ - INFO - im in main.py
